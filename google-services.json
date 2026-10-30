@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468269893688",
+    "project_id": "himanshuapk-68a02",
+    "storage_bucket": "himanshuapk-68a02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468269893688:android:e36fabae1c8f58f3433ecd",
+        "android_client_info": {
+          "package_name": "com.example.himanshusharma16794"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzLk0yYSJsn6_-k9pYI2BaWeaxItI454o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
